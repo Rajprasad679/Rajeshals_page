@@ -159,7 +159,7 @@ form button.btn-primary:hover {
     1 - Hero
 ------------------------------------*/
 .hero {
-  background: url("assets/css/images/hero-bg.JPG") no-repeat center;
+  background: url("../images/hero-bg.JPG") no-repeat center;
   background-size: cover;
   overflow: hidden;
   position: relative;
